@@ -14,3 +14,10 @@
 <a href="https://github.com/riku1027" target="_blank">
   <img src="https://grass-graph.moshimo.works/images/1027_riku.png?rotate=0">
 </a>
+
+<a href="https://qiita.com/riku1027">
+  <img height="20" src="https://qiita-badge.apiapi.app/s/riku1027/posts.svg" />
+</a>
+<//qiita.com/riku1027">
+  <img height="20" src="https://qiita-badge.apiapi.app/s/riku1027/contributions.svg" />
+</a>
