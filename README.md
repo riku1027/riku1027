@@ -17,8 +17,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riku1027&theme=cobalt" />
 </a>
 
-<a href="https://github.com/riku1027" target="_blank">
-  <img src="https://grass-graph.moshimo.works/images/1027_riku.png?rotate=0">
-</a>
-
 
