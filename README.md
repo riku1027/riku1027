@@ -14,9 +14,6 @@
 <!--END_SECTION:lapras-card-->
 
 
-## 🏆Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=riku1027&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)<br>
-
 ## 🟡Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riku1027)
 
