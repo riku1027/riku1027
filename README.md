@@ -14,3 +14,8 @@
 
 ## 🟡Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riku1027)
+
+
+## ⚔️ LAPRAS Score
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
